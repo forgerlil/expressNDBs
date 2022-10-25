@@ -1,0 +1,124 @@
+{
+  "heroes": [
+    {
+      "last_name": "Ripley",
+      "first_name": "Ellen",
+      "image": "https://static.wikia.nocookie.net/avp/images/4/48/Ellen_Ripley.png/revision/latest?cb=20130410133154",
+      "active": true
+    },
+    {
+      "last_name": "Jenkins",
+      "first_name": "Leeroy",
+      "image": "https://wow.zamimg.com/uploads/screenshots/normal/452438-leeroy-jenkins.jpg",
+      "active": true
+    },
+    {
+      "last_name": "Xavier",
+      "first_name": "Charles",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Old_Man_Logan_Vol_2_26_X-Men_Trading_Card_Variant_Textless.jpg/revision/latest?cb=20170611175302",
+      "active": true
+    },
+    {
+      "last_name": "Sobeck",
+      "first_name": "Elisabet",
+      "image": "https://static.wikia.nocookie.net/horizonzerodawn/images/2/22/Elisabet_Sobeck_Dream.jpg/revision/latest/scale-to-width-down/1000?cb=20220428003424",
+      "active": true
+    },
+    {
+      "last_name": "Jaeger",
+      "first_name": "Eren",
+      "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/64/Eren_J%C3%A4ger_854_%28Anime%29.png/revision/latest?cb=20210304122131&path-prefix=de",
+      "active": true
+    },
+    {
+      "last_name": "Andor",
+      "first_name": "Cassian",
+      "image": "https://cdn1-www.superherohype.com/assets/uploads/2018/11/Cassian-Andor-featured.jpg",
+      "active": true
+    },
+    {
+      "lastName": "Connor",
+      "first_name": "Sarah",
+      "image": "https://i.pinimg.com/originals/a2/c9/59/a2c959374d88e4f496dc36d226550012.jpg",
+      "active": true
+    },
+    {
+      "last_name": "von Vengerberg",
+      "first_name": "Yennefer",
+      "image": "https://cdn.80.lv/api/upload/post/6714/images/5d2da6ccb19b4/widen_1220x0.jpg",
+      "active": true
+    },
+    {
+      "last_name": "Ventura",
+      "first_name": "Ace",
+      "image": "https://www.cinema.de/sites/default/files/styles/cin_landscape_650/public/sync/cms3.cinema.de/imgdb/moviedb/33/7bb1afb8ed91378a675e2d17d08571c9.jpeg.jpg?itok=Tv-angz0",
+      "active": true
+    }
+  ],
+  "villains": [
+    {
+      "name": "Xenomorph Queen",
+      "description": "A deadly extraterrestrial lifeform that stalks and kills its human prey.",
+      "personalDeadliness": 10,
+      "influence": 6,
+      "isRecovering": false,
+      "image": "https://static.wikia.nocookie.net/avp/images/5/5c/Xenomorph_Queen_Screenshot.png/revision/latest/scale-to-width-down/1000?cb=20220529135305"
+    },
+    {
+      "name": "Black Dragon Whelp",
+      "description": "A small, vicious dragonling, member of the Black Dragon Flight.",
+      "personalDeadliness": 3,
+      "influence": 1,
+      "image": "https://static.wikia.nocookie.net/wowpedia/images/6/62/Black_Whelp_HS.jpg/revision/latest?cb=20150928102939"
+    },
+    {
+      "name": "Magneto",
+      "description": "A very cunning mutant with the ability to manipulate magnetic fields.",
+      "personalDeadliness": 8,
+      "influence": 8,
+      "image": "https://static.wikia.nocookie.net/x-men/images/0/0a/Magneto_Badass.jpg/revision/latest?cb=20220705140455"
+    },
+    {
+      "name": "Faro Plague",
+      "description": "A deadly, sentient machine AI hivemind that wiped out life on Earth.",
+      "personalDeadliness": 10,
+      "influence": 10,
+      "image": "https://static.wikia.nocookie.net/horizonzerodawn/images/a/a6/Faro_Plague.png/revision/latest?cb=20170714003801"
+    },
+    {
+      "name": "Armored Titan",
+      "description": "A colossal, armored Titan that is the most powerful of the nine Titans.",
+      "personalDeadliness": 8,
+      "influence": 3,
+      "image": "https://media.comicbook.com/2020/12/attack-on-titan-1247753.jpeg?auto=webp&width=1200&height=628&crop=1200:628,smart"
+    },
+    {
+      "name": "Orson Krennic",
+      "description": "Director of the Imperial Military Department of Advanced Weapons Research, Krennic oversaw the development and construction of the Empire's Death Star.",
+      "personalDeadliness": 2,
+      "influence": 8,
+      "image": "https://static.wikia.nocookie.net/jedipedia/images/5/56/Orson_Krennic_%28Profil%29.jpg/revision/latest?cb=20161012173019&path-prefix=de"
+    },
+    {
+      "name": "The Terminator",
+      "description": "A robotic assassin sent back in time to kill Sarah Connor.",
+      "personalDeadliness": 7,
+      "influence": 1,
+      "image": "http://2.bp.blogspot.com/-mHfb4wx5FJU/VZD6W8IuioI/AAAAAAAACdA/37asevAQkHk/s1600/Termi1.JPG"
+    },
+    {
+      "name": "Eredin",
+      "description": "Leader of the Wild Hunt and the most powerful of the Wild Hunt Riders.",
+      "personalDeadliness": 6,
+      "influence": 7,
+      "image": "https://www.sideshow.com/wp/wp-content/uploads/2021/12/the-witcher-wild-hunt-eredin.jpeg"
+    },
+    {
+      "name": "Ray Finkle",
+      "description": "A former NFL player who was forced to retire after a career-ending injury.",
+      "personalDeadliness": 2,
+      "influence": 1,
+      "image": "https://static.wikia.nocookie.net/villains/images/2/23/Lois_Einhorn_2.jpg/revision/latest?cb=20190708233446"
+    }
+  ]
+}
