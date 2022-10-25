@@ -3,56 +3,47 @@
     {
       "last_name": "Ripley",
       "first_name": "Ellen",
-      "image": "https://static.wikia.nocookie.net/avp/images/4/48/Ellen_Ripley.png/revision/latest?cb=20130410133154",
-      "active": true
+      "image": "https://static.wikia.nocookie.net/avp/images/4/48/Ellen_Ripley.png/revision/latest?cb=20130410133154"
     },
     {
       "last_name": "Jenkins",
       "first_name": "Leeroy",
-      "image": "https://wow.zamimg.com/uploads/screenshots/normal/452438-leeroy-jenkins.jpg",
-      "active": true
+      "image": "https://wow.zamimg.com/uploads/screenshots/normal/452438-leeroy-jenkins.jpg"
     },
     {
       "last_name": "Xavier",
       "first_name": "Charles",
-      "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Old_Man_Logan_Vol_2_26_X-Men_Trading_Card_Variant_Textless.jpg/revision/latest?cb=20170611175302",
-      "active": true
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/cc/Old_Man_Logan_Vol_2_26_X-Men_Trading_Card_Variant_Textless.jpg/revision/latest?cb=20170611175302"
     },
     {
       "last_name": "Sobeck",
       "first_name": "Elisabet",
-      "image": "https://static.wikia.nocookie.net/horizonzerodawn/images/2/22/Elisabet_Sobeck_Dream.jpg/revision/latest/scale-to-width-down/1000?cb=20220428003424",
-      "active": true
+      "image": "https://static.wikia.nocookie.net/horizonzerodawn/images/2/22/Elisabet_Sobeck_Dream.jpg/revision/latest/scale-to-width-down/1000?cb=20220428003424"
     },
     {
       "last_name": "Jaeger",
       "first_name": "Eren",
-      "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/64/Eren_J%C3%A4ger_854_%28Anime%29.png/revision/latest?cb=20210304122131&path-prefix=de",
-      "active": true
+      "image": "https://static.wikia.nocookie.net/shingekinokyojin/images/6/64/Eren_J%C3%A4ger_854_%28Anime%29.png/revision/latest?cb=20210304122131&path-prefix=de"
     },
     {
       "last_name": "Andor",
       "first_name": "Cassian",
-      "image": "https://cdn1-www.superherohype.com/assets/uploads/2018/11/Cassian-Andor-featured.jpg",
-      "active": true
+      "image": "https://cdn1-www.superherohype.com/assets/uploads/2018/11/Cassian-Andor-featured.jpg"
     },
     {
-      "lastName": "Connor",
+      "last_name": "Connor",
       "first_name": "Sarah",
-      "image": "https://i.pinimg.com/originals/a2/c9/59/a2c959374d88e4f496dc36d226550012.jpg",
-      "active": true
+      "image": "https://i.pinimg.com/originals/a2/c9/59/a2c959374d88e4f496dc36d226550012.jpg"
     },
     {
       "last_name": "von Vengerberg",
       "first_name": "Yennefer",
-      "image": "https://cdn.80.lv/api/upload/post/6714/images/5d2da6ccb19b4/widen_1220x0.jpg",
-      "active": true
+      "image": "https://cdn.80.lv/api/upload/post/6714/images/5d2da6ccb19b4/widen_1220x0.jpg"
     },
     {
       "last_name": "Ventura",
       "first_name": "Ace",
-      "image": "https://www.cinema.de/sites/default/files/styles/cin_landscape_650/public/sync/cms3.cinema.de/imgdb/moviedb/33/7bb1afb8ed91378a675e2d17d08571c9.jpeg.jpg?itok=Tv-angz0",
-      "active": true
+      "image": "https://www.cinema.de/sites/default/files/styles/cin_landscape_650/public/sync/cms3.cinema.de/imgdb/moviedb/33/7bb1afb8ed91378a675e2d17d08571c9.jpeg.jpg?itok=Tv-angz0"
     }
   ],
   "villains": [
@@ -61,7 +52,6 @@
       "description": "A deadly extraterrestrial lifeform that stalks and kills its human prey.",
       "personalDeadliness": 10,
       "influence": 6,
-      "isRecovering": false,
       "image": "https://static.wikia.nocookie.net/avp/images/5/5c/Xenomorph_Queen_Screenshot.png/revision/latest/scale-to-width-down/1000?cb=20220529135305"
     },
     {
